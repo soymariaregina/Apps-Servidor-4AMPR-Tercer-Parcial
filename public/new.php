@@ -15,7 +15,7 @@
         <div class="columns">
           <div class="column is-4 is-offset-4">
             <div class="box">
-              <form action="#" method="post">
+              <form>
                 <div class="field has-text-centered">
                   <h3 class="is-size-4 has-text-weight-bold">
                       Registrate!
@@ -72,6 +72,7 @@
                       class="input"
                       placeholder="Escribe tu nombre de usuario"
                       required
+                      maxlength="8"
                     >
                     <p class="help is-info">
                         El nombre de usuario debe tener solo letras y números, con una longitud mínima de 8 caracteres.
