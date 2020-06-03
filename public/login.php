@@ -51,6 +51,9 @@
                     <button type="submit" class="button is-fullwidth is-link">Iniciar sesión</button>
                   </div>
                 </div>
+                <div class="field">
+                  <a href="new.php">Registrate si no tienes una cuenta.</a>
+                </div>
               </form>
             </div>
           </div>
