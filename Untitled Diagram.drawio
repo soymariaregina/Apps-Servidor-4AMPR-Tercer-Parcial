@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T04:20:18.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.7.4" etag="65pJ-qLZ2B-aXrOf0bN1" type="github"><diagram id="jQWtJQTza4zfWiEfcAaj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-23T05:16:50.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="84iHWnAxarBzNKwZsLy0" version="13.7.4" type="github" pages="8">
+  <diagram id="jQWtJQTza4zfWiEfcAaj" name="LIBROS">
+    <mxGraphModel dx="1240" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bQyKNtQy8j2dz35YaW5Q-3" value="&lt;b&gt;Libros&lt;/b&gt;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bQyKNtQy8j2dz35YaW5Q-4" value="&lt;b&gt;Editoriales&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bQyKNtQy8j2dz35YaW5Q-6" value="&lt;b&gt;Categorias&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bQyKNtQy8j2dz35YaW5Q-7" value="&lt;b&gt;Autores&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bQyKNtQy8j2dz35YaW5Q-8" value="&lt;b&gt;Domicilios&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bQyKNtQy8j2dz35YaW5Q-9" value="&lt;b&gt;Alumno&lt;/b&gt;s" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bQyKNtQy8j2dz35YaW5Q-10" value="&lt;b&gt;Grupos&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bQyKNtQy8j2dz35YaW5Q-11" value="&lt;b&gt;Docentes&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bQyKNtQy8j2dz35YaW5Q-12" value="&lt;b&gt;Usuarios&lt;/b&gt;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="840" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bQyKNtQy8j2dz35YaW5Q-13" value="&lt;b&gt;Inventarios&lt;/b&gt;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="840" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bQyKNtQy8j2dz35YaW5Q-14" value="&lt;b&gt;Prestamos&lt;/b&gt;" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p4xALgakhyPlchZYl0Kl" name="CATEGORIAS">
+    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="QlX9zEHgJJ466VdMxd0H-0" />
+        <mxCell id="QlX9zEHgJJ466VdMxd0H-1" parent="QlX9zEHgJJ466VdMxd0H-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EryDpohYMPNSc20Pi0Bu" name="AUTORES">
+    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DKCJU6QegfA9j4aErfCH-0" />
+        <mxCell id="DKCJU6QegfA9j4aErfCH-1" parent="DKCJU6QegfA9j4aErfCH-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="V65wbylZ52WdQx-TRsi1" name="EDITORIALES">
+    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="BQ2icAySJ1fwEcfMX4BY-0" />
+        <mxCell id="BQ2icAySJ1fwEcfMX4BY-1" parent="BQ2icAySJ1fwEcfMX4BY-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="M0vrNGsZt5WgOGtnrmp9" name="DOMICILIOS">
+    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="tfUhpNtEUeqb-gMvN28s-0" />
+        <mxCell id="tfUhpNtEUeqb-gMvN28s-1" parent="tfUhpNtEUeqb-gMvN28s-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Vp9EsunxVmHk3fMkvCq_" name="ALUMNOS">
+    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="dyg1jMFjZW2x0WQKnihT-0" />
+        <mxCell id="dyg1jMFjZW2x0WQKnihT-1" parent="dyg1jMFjZW2x0WQKnihT-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gLnPxhhwIgnxPy-kEIOE" name="GRUPOS">
+    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="LotOzzDFsxSfEZkflaBP-0" />
+        <mxCell id="LotOzzDFsxSfEZkflaBP-1" parent="LotOzzDFsxSfEZkflaBP-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_Dt_qAaxc473ZZ9UR4A1" name="USUARIOS">
+    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rWohmGcms4zKWwo427x3-0" />
+        <mxCell id="rWohmGcms4zKWwo427x3-1" parent="rWohmGcms4zKWwo427x3-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
